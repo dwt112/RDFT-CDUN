@@ -5,7 +5,7 @@
 ![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/paper2_framework.png)
 
 ## Requirements
-* python==3.8.13
+* Python==3.8.13
 * Pytorch==2.1.1
 * CUDA==11.8
 

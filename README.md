@@ -14,5 +14,5 @@
 ![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/combined_image2_4.tif)
 
 ## Dataset
-* Train data: Set11, Urban100, CBSD68
-* Test data: Training_Data.mat
+* Train data: Training_Data.mat
+* Test data: Set11, Urban100, CBSD68

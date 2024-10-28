@@ -10,9 +10,9 @@
 * CUDA==11.8
 
 ## Results
-![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/combined_image2_2.png)
-![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/combined_image2_3.png)
-![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/combined_image2_4.png)
+![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/2_2.png)
+![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/2_4.png)
+![image](https://github.com/dwt112/RDFT-CDUN/blob/main/Figs/2_3.png)
 
 ## Dataset
 * Train data: [Training_Data.mat](https://drive.google.com/file/d/1osaCDT4IXsCwNLVAOFpjO5IfDp68Z0Kx/view?usp=sharing)
